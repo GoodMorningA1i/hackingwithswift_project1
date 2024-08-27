@@ -2,7 +2,9 @@
 
 ## About the Project
 
-An iOS app that holds rows of image names in a table. When a row in the table is selected, it navigates to a new screen with the image to view.
+An app that lets a user browse through images on their phone.
+
+More specifically, its an iOS app that holds rows of image names in a table. When a row in the table is selected, it navigates to a new screen with the image to view.
 
 This project covers topics like table views and image views, app bundles, FileManager, typecasting, view controllers, storyboards, outlets, Auto Layout, UIImage, and more.
 
